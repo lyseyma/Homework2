@@ -1,0 +1,12 @@
+{
+  "name": "Mobile_homewrok2",
+  "displayName": "Mobile_homewrok2",
+  "expo": {
+    "name": "Mobile_homewrok2",
+    "slug": "Mobile_homewrok2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
